@@ -1,0 +1,21 @@
+#: locale=tr
+
+## Media
+
+### Title
+panorama_5C2315C7_57D2_B2FA_41D3_84A163C435B1.label = 1 (1)
+panorama_5D5C5D3A_57D2_B38A_41A6_3580BC65B2FD.label = 2 (1)
+panorama_5D58E3CD_57D2_D68E_41C2_A8CFBA5BCB93.label = 3 (1)
+panorama_5D5839FC_57D2_D28E_41CB_017BE68C5F31.label = 4 (2)
+panorama_459724EC_57F1_B28E_41BE_4BD9CCD245D5.label = 5 (1)
+panorama_5D58F788_57D2_FF76_41B4_88DB383558B8.label = 6
+panorama_5D588E3C_57D2_F18E_41C1_FDA5F2FB7B48.label = 7
+panorama_5D58F4F1_57D2_D296_41D5_E31CBBFB2523.label = 8
+panorama_5D58AB96_57D2_D69A_41CC_3E560719DE35.label = 9
+
+## Tour
+
+### Description
+
+### Title
+tour.name = ALANO TOWER
